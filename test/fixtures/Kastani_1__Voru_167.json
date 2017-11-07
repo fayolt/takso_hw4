@@ -1,0 +1,22 @@
+{
+    "destination_addresses" : [ "Võru 167, 50105 Tartu, Estonia" ],
+    "origin_addresses" : [ "Kastani 1, 50409 Tartu, Estonia" ],
+    "rows" : [
+       {
+          "elements" : [
+             {
+                "distance" : {
+                   "text" : "4.4 km",
+                   "value" : 4403
+                },
+                "duration" : {
+                   "text" : "10 mins",
+                   "value" : 575
+                },
+                "status" : "OK"
+             }
+          ]
+       }
+    ],
+    "status" : "OK"
+ }

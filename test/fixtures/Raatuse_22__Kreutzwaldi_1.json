@@ -1,0 +1,22 @@
+{
+    "destination_addresses" : [ "Friedrich Reinhold Kreutzwaldi 1, 51014 Tartu, Estonia" ],
+    "origin_addresses" : [ "Raatuse 22, 51009 Tartu, Estonia" ],
+    "rows" : [
+       {
+          "elements" : [
+             {
+                "distance" : {
+                   "text" : "3.2 km",
+                   "value" : 3203
+                },
+                "duration" : {
+                   "text" : "7 mins",
+                   "value" : 418
+                },
+                "status" : "OK"
+             }
+          ]
+       }
+    ],
+    "status" : "OK"
+ }

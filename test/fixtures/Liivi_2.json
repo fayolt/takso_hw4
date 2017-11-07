@@ -1,0 +1,88 @@
+{
+    "destination_addresses" : [ "Juhan Liivi 2, 50409 Tartu, Estonia" ],
+    "origin_addresses" : [
+       "Soola 4, 51013 Tartu, Estonia",
+       "Vanemuise 4, 51004 Tartu, Estonia",
+       "Vaksali 6, 50409 Tartu, Estonia",
+       "Ümera 1, 50406 Tartu, Estonia",
+       "Ringtee 75, 51014 Tartu, Estonia"
+    ],
+    "rows" : [
+       {
+          "elements" : [
+             {
+                "distance" : {
+                   "text" : "1.9 km",
+                   "value" : 1916
+                },
+                "duration" : {
+                   "text" : "7 mins",
+                   "value" : 412
+                },
+                "status" : "OK"
+             }
+          ]
+       },
+       {
+          "elements" : [
+             {
+                "distance" : {
+                   "text" : "0.8 km",
+                   "value" : 822
+                },
+                "duration" : {
+                   "text" : "4 mins",
+                   "value" : 227
+                },
+                "status" : "OK"
+             }
+          ]
+       },
+       {
+          "elements" : [
+             {
+                "distance" : {
+                   "text" : "1.0 km",
+                   "value" : 958
+                },
+                "duration" : {
+                   "text" : "4 mins",
+                   "value" : 212
+                },
+                "status" : "OK"
+             }
+          ]
+       },
+       {
+          "elements" : [
+             {
+                "distance" : {
+                   "text" : "2.6 km",
+                   "value" : 2611
+                },
+                "duration" : {
+                   "text" : "7 mins",
+                   "value" : 394
+                },
+                "status" : "OK"
+             }
+          ]
+       },
+       {
+          "elements" : [
+             {
+                "distance" : {
+                   "text" : "5.3 km",
+                   "value" : 5280
+                },
+                "duration" : {
+                   "text" : "11 mins",
+                   "value" : 650
+                },
+                "status" : "OK"
+             }
+          ]
+       }
+    ],
+    "status" : "OK"
+ }

@@ -1,0 +1,22 @@
+{
+    "destination_addresses" : [ "Turu 10, 51013 Tartu, Estonia" ],
+    "origin_addresses" : [ "Tamme puiestee 1, 50404 Tartu, Estonia" ],
+    "rows" : [
+       {
+          "elements" : [
+             {
+                "distance" : {
+                   "text" : "2.7 km",
+                   "value" : 2711
+                },
+                "duration" : {
+                   "text" : "7 mins",
+                   "value" : 430
+                },
+                "status" : "OK"
+             }
+          ]
+       }
+    ],
+    "status" : "OK"
+ }

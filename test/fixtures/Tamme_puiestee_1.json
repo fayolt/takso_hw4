@@ -1,0 +1,88 @@
+{
+    "destination_addresses" : [ "Tamme puiestee 1, 50404 Tartu, Estonia" ],
+    "origin_addresses" : [
+       "Soola 4, 51013 Tartu, Estonia",
+       "Vanemuise 4, 51004 Tartu, Estonia",
+       "Vaksali 6, 50409 Tartu, Estonia",
+       "Ümera 1, 50406 Tartu, Estonia",
+       "Ringtee 75, 51014 Tartu, Estonia"
+    ],
+    "rows" : [
+       {
+          "elements" : [
+             {
+                "distance" : {
+                   "text" : "2.2 km",
+                   "value" : 2220
+                },
+                "duration" : {
+                   "text" : "7 mins",
+                   "value" : 399
+                },
+                "status" : "OK"
+             }
+          ]
+       },
+       {
+          "elements" : [
+             {
+                "distance" : {
+                   "text" : "1.8 km",
+                   "value" : 1822
+                },
+                "duration" : {
+                   "text" : "5 mins",
+                   "value" : 275
+                },
+                "status" : "OK"
+             }
+          ]
+       },
+       {
+          "elements" : [
+             {
+                "distance" : {
+                   "text" : "1.2 km",
+                   "value" : 1203
+                },
+                "duration" : {
+                   "text" : "3 mins",
+                   "value" : 196
+                },
+                "status" : "OK"
+             }
+          ]
+       },
+       {
+          "elements" : [
+             {
+                "distance" : {
+                   "text" : "1.1 km",
+                   "value" : 1143
+                },
+                "duration" : {
+                   "text" : "3 mins",
+                   "value" : 206
+                },
+                "status" : "OK"
+             }
+          ]
+       },
+       {
+          "elements" : [
+             {
+                "distance" : {
+                   "text" : "3.4 km",
+                   "value" : 3384
+                },
+                "duration" : {
+                   "text" : "7 mins",
+                   "value" : 448
+                },
+                "status" : "OK"
+             }
+          ]
+       }
+    ],
+    "status" : "OK"
+ }

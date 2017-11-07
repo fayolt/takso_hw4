@@ -1,0 +1,22 @@
+{
+    "destination_addresses" : [ "Riia 132, 51014 Tartu, Estonia" ],
+    "origin_addresses" : [ "Juhan Liivi 2, 50409 Tartu, Estonia" ],
+    "rows" : [
+       {
+          "elements" : [
+             {
+                "distance" : {
+                   "text" : "3.3 km",
+                   "value" : 3335
+                },
+                "duration" : {
+                   "text" : "8 mins",
+                   "value" : 503
+                },
+                "status" : "OK"
+             }
+          ]
+       }
+    ],
+    "status" : "OK"
+ }
