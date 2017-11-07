@@ -64,7 +64,6 @@ exports.config = {
   },
 
   npm: {
-    enabled: true,
-    aliases: { vue: "vue/dist/vue.common.js" }
+    enabled: true
   }
 };

@@ -28,11 +28,5 @@ import_config "#{Mix.env}.exs"
 
 config :canary, unauthorized_handler: {Takso.SessionController, :unauthorized}
 
-config :guardian, Guardian,
-  issuer: "Takso",
-  ttl: {30, :days},
-  allowed_drift: 2000,
-  secret_key: "BUVQvDgUElQBK9xkgOujTQZWCY2iLooIFdFDBxezd2vx2mLF49XjTDZsdZUrpwxe",
-  serializer: Takso.GuardianSerializer
 
 config :takso, gmaps_api_key: "AIzaSyCq8dEH4RJn6ueG5b9qKi-fhNqHQ3Iqp5I"

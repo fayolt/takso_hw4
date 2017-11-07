@@ -1,7 +1,6 @@
 defmodule Takso.BookingController do
   use Takso.Web, :controller
   import Ecto.Query, only: [from: 2]
-  import Canary.Plugs
 
   alias Takso.{Taxi, Booking, Repo, Allocation}
   alias Ecto.{Multi, Changeset}
@@ -47,8 +46,6 @@ defmodule Takso.BookingController do
       |> Multi.update(:taxi, Taxi.changeset(taxi) |> Changeset.put_change(:status, "busy"))
       |> Multi.update(:booking, Booking.changeset(booking) |> Changeset.put_change(:status, "allocated"))
       |> Repo.transaction
-      
-      IO.inspect location
 
       conn
       |> put_flash(:info, "Your taxi will arrive in #{time} mins. The estimated duration of your trip is of #{trip_duration} mins")

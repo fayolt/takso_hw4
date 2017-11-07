@@ -27,7 +27,6 @@ config :takso, Takso.Endpoint,
   watchers: [node: ["node_modules/brunch/bin/brunch", "watch", "--stdin",
                     cd: Path.expand("../", __DIR__)]]
 
-
 # Watch static and templates for browser reloading.
 config :takso, Takso.Endpoint,
   live_reload: [
